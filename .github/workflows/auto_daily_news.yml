@@ -1,4 +1,4 @@
-name: Auto
+name: auto_daily_news
 
 on:
   schedule:
